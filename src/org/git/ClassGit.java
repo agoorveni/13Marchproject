@@ -9,6 +9,8 @@ public class ClassGit {
 		
 		System.out.println("Gud morning");
 		
+		System.out.println("Hello");
+		
 	}
 	
 	
